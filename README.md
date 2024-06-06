@@ -16,7 +16,7 @@
 <h3>Tela de cadastro</h3>
 
 ![image](https://github.com/cleslleydemoura/java_mysql_app/assets/100368699/833a57aa-b8c8-4794-8d11-1e971139a02c)
-<p>Dentro dessa tela o usuário irá criar seu nome de usuário e senha, que será cadastrado também dentro do Banco de Dados e que o dará acesso para efetuar logins dentro do aplicativo.</p>
+<p>- Dentro dessa tela o usuário irá criar seu nome de usuário e senha, que será cadastrado também dentro do Banco de Dados e que o dará acesso para efetuar logins dentro do aplicativo.</p>
 
 <h4>Telas de Confirmação/Não confirmação de LogIn e Cadastro</h4>
 
