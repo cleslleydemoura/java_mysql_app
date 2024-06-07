@@ -28,4 +28,4 @@
 
 ![image](https://github.com/cleslleydemoura/java_mysql_app/assets/100368699/817e1adf-daa0-421c-8c0f-b3f3bfa0f03f)
 
-<p>Após login bem sucedido o usuário é redirecionado a tela principal do aplicativo.</p>
+<p>- Após login bem sucedido o usuário é redirecionado a tela principal do aplicativo.</p>
