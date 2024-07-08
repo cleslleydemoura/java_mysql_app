@@ -1,7 +1,7 @@
 <h1>Aplicação com conexão entre Java e MySQL</h1>
 
 <p>Utilizando o Eclipse como editor principal, o código foi criado a partir da instalação do Buid Path 'Swing' e a instalação do 'mysql-connector-j-8.4.0' para a realização da conexão entre os aplicativos Eclipse e MySQL Workbench.</p>
-<p>O projeto consiste em: </p>
+<p>O projeto de autenticação de usuário consiste em: </p>
 <p>- Uma tela de Login</p>
 <p>- Uma tela de Cadastro</p>
 <p>- Uma tela de Acesso</p>
